@@ -1,0 +1,1886 @@
+{
+    "registryname": "loot_factory",
+    "localizedname": "战利品制作工厂",
+    "color":"404040",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@4"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@4"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 10,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "deepmoblearning:trial_keystone@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 9,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 8,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "nuclearcraft:tritium_lamp@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 14,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "z": 7,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 6,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 13,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 12,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "z": 4,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "deepmoblearning:infused_ingot_block@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 3,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": -7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "z": 11,
+            "elements": [
+                "environmentaltech:structure_frame_6@0"
+            ]
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "actuallyadditions:block_quartz_wall@0"
+            ]
+        }
+    ]}

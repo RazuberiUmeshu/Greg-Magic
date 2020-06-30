@@ -1,0 +1,1598 @@
+{
+    "registryname": "assembly_line",
+    "localizedname": "装配线",
+    "color":"d3d3d3",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 17,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 16,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 7,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 16,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 15,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 7,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 6,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 15,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 7,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 15,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 14,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 14,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 4,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 13,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 13,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 12,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 19,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 12,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 19,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 11,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "modularmachinery:blockoutputbus@5"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 19,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 18,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 11,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 19,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 18,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 10,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 9,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 18,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 10,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 18,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "gtadditions:ga_multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 17,
+            "elements": [
+                "gtadditions:ga_transparent_casing@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 9,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 8,
+            "elements": [
+                "modularmachinery:blockfluidinputhatch@7"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "enderio:block_alloy_endergy@3"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 17,
+            "elements": [
+                "gregtech:multiblock_casing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 16,
+            "elements": [
+                "gregtech:multiblock_casing@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockenergyinputhatch@6"
+            ]
+        }
+    ]}

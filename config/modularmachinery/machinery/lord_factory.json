@@ -1,0 +1,1078 @@
+{
+    "registryname": "lord_factory",
+    "localizedname": "神秘工厂",
+    "color":"48d1cc",
+    "parts": [
+        {
+            "x": -3,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockoutputbus@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockinputbus@2"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modulardiversity:blockmanainputhatch@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modulardiversity:blockmanainputhatch@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": -1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": -1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 1,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -2,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": -2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": -1,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -4,
+            "z": -2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "environmentaltech:ionite@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": -2,
+            "z": -1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "lordcraft:crystal_basic_lightningb@0"
+            ]
+        }
+    ]}

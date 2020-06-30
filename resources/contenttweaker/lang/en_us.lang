@@ -1,0 +1,82 @@
+tile.contenttweaker.terrasteel_shelly.name=Terrasteel Shelly
+tile.contenttweaker.starmetal_shelly.name=Starmetal Shelly
+tile.contenttweaker.sakuradiamond_shelly.name=Sakuradiamond Shelly
+tile.contenttweaker.ionite_shelly.name=Ionite Shelly
+
+fluid.fluid_chlorinecracked_moltencoralium=Chlorinecracked Moltencoralium
+fluid.fluid_sulfuric_refined_canola=Sulfuric Refined Canola
+fluid.fluid_erebus_air=The Air In Erebus
+fluid.fluid_nether_air=The Air In Nether
+fluid.fluid_cream=Cream
+fluid.fluid_molten_lavender=Molten Lavender
+fluid.fluid_dragon_breath=Molten Dragon Breath
+fluid.fluid_molten_martianblueberry=Molten Martian Blueberry
+fluid.fluid_molten_starmetal=Molten Starmetal
+fluid.fluid_water_vapor=Water Vapor
+fluid.fluid_molten_peppermint=Molten Peppermint
+fluid.fluid_endland_air=The Air In Endland
+fluid.fluid_molten_vinteum=Molten Vinteum
+fluid.fluid_pluto_air=The Air In Pluto
+fluid.fluid_milky_way=Milky Way Water
+fluid.fluid_psi=Psi
+
+base.material.heaven=Heaven
+base.material.naturalalloy=Natural Cohesion Alloy
+base.material.martianblueberry=Martian Blueberry
+base.material.soularium_epoxid=Soularium Epoxid
+base.material.cwasteland=Abyssal Wasteland
+base.material.erodium=Erodium
+base.material.pladium=Pladium
+base.material.hafnium=Hafnium
+base.material.polonium=Polonium
+base.material.prometheum=Prometheum
+base.material.ruthenium=Ruthenium
+base.material.rhodium=Rhodium
+
+item.contenttweaker.ingot_maplesugar.name=Maplesugar Ingot
+item.contenttweaker.ingot_icecream.name=Ice-cream Ingot
+
+item.contenttweaker.erebusair_bottle.name=Erebus Air Bottle
+
+item.contenttweaker.rune_template.name=Template Of Rune
+item.contenttweaker.rune_euphoria.name=Euphoria Rune
+item.contenttweaker.rune_terror.name=Terror Rune
+item.contenttweaker.rune_rage.name=Rage Rune
+item.contenttweaker.rune_grief.name=Grief Rune
+
+item.contenttweaker.ironwood_plate.name=Ironwood Plate
+item.contenttweaker.knightmetal_plate.name=Knight Metal Plate
+item.contenttweaker.fiery_plate.name=Fiery Plate
+item.contenttweaker.manasteel_plate.name=Manasteel Plate
+item.contenttweaker.terrasteel_plate.name=Terrasteel Plate
+item.contenttweaker.elementium_plate.name=Elementium Plate
+item.contenttweaker.gaia_spirit_plate.name=Gaia Spirit Plate
+item.contenttweaker.compressed_iron_plate.name=Compressed Iron Plate
+item.contenttweaker.draconium_plate.name=Draconium Plate
+item.contenttweaker.awakened_draconium_plate.name=Awakened Draconium Plate
+item.contenttweaker.dark_matter_plate.name=Dark Matter Plate
+item.contenttweaker.red_matter_plate.name=Red Matter Plate
+
+item.contenttweaker.basiccontrolcircuit.name=Basic Controlcircuit
+item.contenttweaker.advancedcontrolcircuit.name=Advanced Controlcircuit
+item.contenttweaker.elitecontrolcircuit.name=Elite Controlcircuit
+item.contenttweaker.ultimatecontrolcircuit.name=Ultimate Controlcircuit
+item.contenttweaker.rosegoldcontrolcircuit.name=Rosegold Controlcircuit
+item.contenttweaker.abyssalnitecontrolcircuit.name=Abyssalnite Controlcircuit
+item.contenttweaker.coralcontrolcircuit.name=Coral Controlcircuit
+
+item.contenttweaker.mizuhuusen_sorairo.name=Light-Blue Water Balloon
+item.contenttweaker.mizuhuusen_kuro.name=Black Water Balloon
+item.contenttweaker.mizuhuusen_pinku.name=Pink Water Balloon
+item.contenttweaker.mizuhuusen_kimidori.name=Blue Water Balloon
+item.contenttweaker.mizuhuusen_aoi.name=Kelly Water Balloon
+
+item.contenttweaker.schematic_rocket_t1.name=Rocket Engineering Drawing Tier One
+item.contenttweaker.crystallinepinkslime_connector.name=Crystalline Pink Slime Connector
+item.contenttweaker.roughlitherite_crystal.name=Rough Litherite Crystal
+item.contenttweaker.bacterial_plasticpiece.name=Bacterial Plastic Piece
+item.contenttweaker.living_matter_omnipotent.name=Omnipotent Living Matter
+item.contenttweaker.periodic_diagram.name=Periodic Diagram
+
+contenttweaker.part.dust_tiny=%sTiny Dust
+contenttweaker.part.foil=%sFoil
