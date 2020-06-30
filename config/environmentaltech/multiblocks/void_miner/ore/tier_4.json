@@ -1,0 +1,34 @@
+{
+  "outputs": [
+    {
+      "target": "white",
+      "weight": 8450,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "target": "crystal",
+      "weight": 800,
+      "id": "contenttweaker:roughlitherite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 400,
+      "id": "contenttweaker:sub_block_holder_1"
+    },
+    {
+      "target": "crystal",
+      "weight": 200,
+      "id": "environmentaltech:kyronite_crystal"
+    },
+    {
+      "target": "crystal",
+      "weight": 100,
+      "id": "contenttweaker:sub_block_holder_0:5"
+    },
+    {
+      "target": "crystal",
+      "weight": 50,
+      "id": "environmentaltech:ionite_crystal"
+    }
+  ]
+}
