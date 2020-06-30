@@ -1,0 +1,38 @@
+{
+  "savedSubBlockNames": {
+    "0": {
+      "0": "heaven_block",
+      "1": "pladium_block",
+      "2": "naturalalloy_block",
+      "3": "heaven_ore",
+      "4": "soularium_epoxid_ore",
+      "5": "pladium_ore",
+      "6": "wip1_ore",
+      "7": "erodium_block",
+      "8": "soularium_epoxid_block",
+      "9": "wasteland_block",
+      "10": "naturalalloy_ore",
+      "11": "wip1_block",
+      "12": "wip3_block",
+      "13": "wip2_block",
+      "14": "wip3_ore",
+      "15": "wip2_ore"
+    },
+    "1": {
+      "0": "erodium_ore",
+      "1": "hafnium_block",
+      "2": "martianblueberry_ore",
+      "3": "martianblueberry_block",
+      "4": "hafnium_ore",
+      "5": "polonium_block",
+      "6": "prometheum_block",
+      "7": "prometheum_ore",
+      "8": "polonium_ore",
+      "9": "ruthenium_ore",
+      "10": "rhodium_ore",
+      "11": "rhodium_block",
+      "12": "ruthenium_block",
+      "13": "wasteland_ore"
+    }
+  }
+}
