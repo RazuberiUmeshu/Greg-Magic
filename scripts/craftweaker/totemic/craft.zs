@@ -17,4 +17,5 @@ recipes.removeShaped(<totemic:flute>);
 recipes.addShaped(<totemic:flute>,[[null,<ore:treeLeaves>,<totemic:buffalo_items:1>],[null,<gregtech:meta_item_2:19196>,null],[<gregtech:meta_item_2:19196>,null,null]]);
 
 # 红柏木板
+recipes.removeShapeless(<totemic:cedar_plank>);
 recipes.addShapeless(<totemic:cedar_plank>,[<totemic:cedar_log>]);

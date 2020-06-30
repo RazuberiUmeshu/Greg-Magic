@@ -14,6 +14,14 @@ recipes.addShaped(<nuclearcraft:part:1>,[[<contenttweaker:compressed_iron_plate>
 recipes.addShaped(<nuclearcraft:part:2>,[[<contenttweaker:awakened_draconium_plate>,<nuclearcraft:uranium:8>,<contenttweaker:awakened_draconium_plate>],[<nuclearcraft:uranium:8>,<nuclearcraft:part:1>,<nuclearcraft:uranium:8>],[<contenttweaker:awakened_draconium_plate>,<nuclearcraft:uranium:8>,<contenttweaker:awakened_draconium_plate>]]);
 recipes.addShaped(<nuclearcraft:part:3>,[[<gregtech:meta_item_2:32433>,<nuclearcraft:californium:8>,<gregtech:meta_item_2:32433>],[<nuclearcraft:californium:8>,<nuclearcraft:part:2>,<nuclearcraft:californium:8>],[<gregtech:meta_item_2:32433>,<nuclearcraft:californium:8>,<gregtech:meta_item_2:32433>]]);
 
+# 无限水
+recipes.removeShaped(<nuclearcraft:water_source>);
+recipes.removeShaped(<nuclearcraft:water_source_compact>);
+recipes.removeShaped(<nuclearcraft:water_source_dense>);
+recipes.addShaped(<nuclearcraft:water_source>,[[<minecraft:lapis_block>,<minecraft:lapis_block>,<minecraft:lapis_block>],[<minecraft:lapis_block>,<gregtech:machine:500>,<minecraft:lapis_block>],[<minecraft:lapis_block>,<minecraft:lapis_block>,<minecraft:lapis_block>]]);
+recipes.addShaped(<nuclearcraft:water_source_compact>,[[<minecraft:lapis_block>,<minecraft:lapis_block>,<minecraft:lapis_block>],[<minecraft:lapis_block>,<gregtech:machine:501>,<minecraft:lapis_block>],[<minecraft:lapis_block>,<minecraft:lapis_block>,<minecraft:lapis_block>]]);
+recipes.addShaped(<nuclearcraft:water_source_dense>,[[<minecraft:lapis_block>,<minecraft:lapis_block>,<minecraft:lapis_block>],[<minecraft:lapis_block>,<gregtech:machine:502>,<minecraft:lapis_block>],[<minecraft:lapis_block>,<minecraft:lapis_block>,<minecraft:lapis_block>]]);
+
 # NC机器框架
 recipes.removeShaped(<nuclearcraft:part:10>);
 recipes.addShapeless(<nuclearcraft:part:10>,[<gregtech:machine:506>]);

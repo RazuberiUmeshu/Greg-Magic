@@ -35,19 +35,3 @@ recipes.removeShaped(<environmentaltech:void_ore_miner_cont_3>);
 recipes.removeShaped(<environmentaltech:void_ore_miner_cont_4>);
 recipes.removeShaped(<environmentaltech:void_ore_miner_cont_5>);
 recipes.removeShaped(<environmentaltech:void_ore_miner_cont_6>);
-
-# 虚空植物采掘机
-recipes.removeShaped(<environmentaltech:void_botanic_miner_cont_1>);
-recipes.removeShaped(<environmentaltech:void_botanic_miner_cont_2>);
-recipes.removeShaped(<environmentaltech:void_botanic_miner_cont_3>);
-recipes.removeShaped(<environmentaltech:void_botanic_miner_cont_4>);
-recipes.removeShaped(<environmentaltech:void_botanic_miner_cont_5>);
-recipes.removeShaped(<environmentaltech:void_botanic_miner_cont_6>);
-
-# 虚空资源采掘机
-recipes.removeShaped(<environmentaltech:void_res_miner_cont_1>);
-recipes.removeShaped(<environmentaltech:void_res_miner_cont_2>);
-recipes.removeShaped(<environmentaltech:void_res_miner_cont_3>);
-recipes.removeShaped(<environmentaltech:void_res_miner_cont_4>);
-recipes.removeShaped(<environmentaltech:void_res_miner_cont_5>);
-recipes.removeShaped(<environmentaltech:void_res_miner_cont_6>);

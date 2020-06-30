@@ -6,6 +6,10 @@ recipes.removeShapeless(<minecraft:coal>);
 # 青铜
 recipes.removeShapeless(<ore:dustBronze>);
 
+# 钢
+recipes.removeShapeless(<ore:ingotSteel>);
+recipes.removeShaped(<ore:blockSteel>);
+
 # 铝
 recipes.removeShapeless(<ore:ingotAluminum>);
 recipes.removeShapeless(<ore:dustAluminum>);

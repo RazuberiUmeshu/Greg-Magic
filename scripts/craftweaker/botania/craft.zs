@@ -7,6 +7,16 @@ recipes.addShaped(<botania:altar>,[[<ore:slabStone>,<tiths:ingot_royal_alloy>,<o
 # 活木化身
 recipes.removeShaped(<botania:avatar>);
 
+# 盆栽
+recipes.removeShaped(<bonsaitrees:bonsaipot>);
+recipes.removeShaped(<bonsaitrees:bonsaipot:1>);
+recipes.removeShaped(<botanicbonsai:botanic_bonsai_pot>);
+recipes.removeShaped(<botanicbonsai:bonsai_pot_manager>);
+recipes.addShaped(<bonsaitrees:bonsaipot>,[[<enderio:block_alloy>,<minecraft:flower_pot>,<enderio:block_alloy>],[<enderio:block_alloy>,<enderio:block_alloy>,<enderio:block_alloy>]]);
+recipes.addShaped(<bonsaitrees:bonsaipot:1>,[[<tiths:block_steamium>,<bonsaitrees:bonsaipot>,<tiths:block_steamium>],[<tiths:block_steamium>,<botania:opencrate>,<tiths:block_steamium>]]);
+recipes.addShaped(<botanicbonsai:botanic_bonsai_pot>,[[<botania:livingrock:2>,<bonsaitrees:bonsaipot>,<botania:livingrock:2>],[<botania:livingrock:2>,<botania:livingrock:2>,<botania:livingrock:2>]]);
+recipes.addShaped(<botanicbonsai:bonsai_pot_manager>,[[<bloodmagic:blood_rune>,<bloodmagic:blood_rune>,<bloodmagic:blood_rune>],[<bloodmagic:blood_rune>,<gregtech:metal_casing:2>,<bloodmagic:blood_rune>],[<bloodmagic:blood_rune>,<bloodmagic:blood_rune>,<bloodmagic:blood_rune>]]);
+
 # 魔力池
 recipes.removeShaped(<botania:pool:2>);
 recipes.removeShaped(<botania:pool>);

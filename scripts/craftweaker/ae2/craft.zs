@@ -51,6 +51,9 @@ recipes.addShaped(<appliedenergistics2:crafting_unit>,[[<gregtech:meta_item_1:12
 # 物质聚合器
 recipes.remove(<appliedenergistics2:condenser>);
 
+# 照明面板
+recipes.remove(<appliedenergistics2:part:180>);
+
 # 空白样板
 recipes.remove(<appliedenergistics2:material:52>);
 

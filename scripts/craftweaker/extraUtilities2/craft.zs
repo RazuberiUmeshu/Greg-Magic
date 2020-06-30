@@ -26,3 +26,7 @@ recipes.removeShaped(<extrautils2:resonator>);
 
 # 龙蛋发电机
 recipes.removeShaped(<extrautils2:passivegenerator:8>);
+
+# 屏幕
+recipes.removeShaped(<extrautils2:screen>);
+recipes.addShaped(<extrautils2:screen>,[[<psi:psi_decorative:7>,<psi:psi_decorative:7>,<psi:psi_decorative:7>],[<psi:psi_decorative:7>,<solarflux:mirror>,<psi:psi_decorative:7>],[<psi:psi_decorative:7>,<psi:psi_decorative:7>,<psi:psi_decorative:7>]]);

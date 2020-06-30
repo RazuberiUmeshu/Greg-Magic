@@ -27,7 +27,3 @@ recipes.addShaped(<erebus:materials:59>,[[<botania:managlass>,null,<botania:mana
 # 竹桶
 recipes.removeShaped(<erebus:bambucket>);
 recipes.addShaped(<erebus:bambucket>,[[null,<minecraft:string>,null],[<ore:bamboo>,null,<ore:bamboo>],[<ore:bamboo>,<ore:bamboo>,<ore:bamboo>]]);
-
-# 香脂木板
-recipes.addShapeless(<erebus:planks:6>*2,[<erebus:log_balsam>]);
-recipes.addShapeless(<erebus:planks:6>,[<erebus:log_balsam_resinless>]);

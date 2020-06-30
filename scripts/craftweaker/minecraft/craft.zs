@@ -82,6 +82,20 @@ recipes.addShaped(<minecraft:compass>,[[null,<ore:plateIron>,null],[<ore:plateIr
 recipes.removeShaped(<minecraft:clock>);
 recipes.addShaped(<minecraft:clock>,[[null,<ore:plateGold>,null],[<ore:plateGold>,<ore:ingotRedAlloy>,<ore:plateGold>],[null,<ore:plateGold>,null]]);
 
+# 弓
+recipes.removeShaped(<minecraft:bow>);
+recipes.addShaped(<minecraft:bow>,[[<gregtech:meta_item_2:19196>,<gregtech:meta_item_2:19196>,<gregtech:meta_item_2:19196>],[<gregtech:meta_item_2:19196>,null,<tconstruct:bow_string>.withTag({Material: "string"})],[<gregtech:meta_item_2:19196>,<tconstruct:bow_string>.withTag({Material: "string"}),null]]);
+
+# 箭
+recipes.removeShaped(<minecraft:arrow>);
+recipes.removeShapeless(<minecraft:arrow>);
+recipes.addShaped(<minecraft:arrow>*16,[[null,null,<evilcraft:dark_spike>],[null,<gregtech:meta_item_2:19196>,null],[<twilightforest:raven_feather>,null,null]]);
+recipes.addShaped(<minecraft:arrow>*16,[[null,null,<evilcraft:dark_spike>],[null,<gregtech:meta_item_2:19196>,null],[<totemic:eagle_drops:1>,null,null]]);
+
+# 盾牌
+recipes.removeShaped(<minecraft:shield>);
+recipes.addShaped(<minecraft:shield>,[[<gregtech:compressed_10:10>,<gregtech:compressed_10:10>,<gregtech:compressed_10:10>],[<gregtech:compressed_10:10>,<actuallyadditions:block_misc:4>,<gregtech:compressed_10:10>],[<gregtech:compressed_10:10>,<gregtech:compressed_10:10>,<gregtech:compressed_10:10>]]);
+
 # 末影之眼
 recipes.removeShapeless(<minecraft:ender_eye>);
 

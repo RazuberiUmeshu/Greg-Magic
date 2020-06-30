@@ -33,11 +33,39 @@ alloy.recipeBuilder().inputs([<projectred-core:resource_item:250>,<ore:itemSilic
 # 单晶硅
 alloy.recipeBuilder().inputs([<projectred-core:resource_item:300>,<gregtech:meta_item_1:12025>]).outputs([<gregtech:meta_item_2:32439>]).duration(40).EUt(32768).buildAndRegister();
 
+# 钢锭
+alloy.findRecipe(16, [<minecraft:iron_ingot>,<gregtech:meta_item_1:10204>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:iron_ingot>,<gregtech:meta_item_1:2204>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:iron_ingot>*2,<gregtech:meta_item_1:8357>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:iron_ingot>*2,<gregtech:meta_item_1:2357>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material>,<gregtech:meta_item_1:10204>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material>,<gregtech:meta_item_1:2204>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material>*2,<gregtech:meta_item_1:8357>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material>*2,<gregtech:meta_item_1:2357>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:coal>*2,<minecraft:iron_ingot>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:coal>*2,<thermalfoundation:material>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material:768>*2,<minecraft:iron_ingot>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material:768>*2,<thermalfoundation:material>], [null]).remove();
+alloy.recipeBuilder().inputs([<botania:manaresource>,<ore:fuelCoke>]).outputs([<thermalfoundation:material:160>]).duration(300).EUt(128).buildAndRegister();
+alloy.recipeBuilder().inputs([<minecraft:iron_ingot>,<ore:fuelCoke>]).outputs([<thermalfoundation:material:160>]).duration(100).EUt(512).buildAndRegister();
+
+# 钢块
+alloy.findRecipe(16, [<minecraft:iron_block>,<gregtech:compressed_9:5>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:coal_block>*2,<minecraft:iron_block>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:iron_block>*2,<gregtech:compressed_15:4>], [null]).remove();
+
 # 充能铜锭
 alloy.findRecipe(16, [<minecraft:redstone>*4,<thermalfoundation:material:128>], [null]).remove();
 alloy.findRecipe(16, [<minecraft:redstone>*4,<thermalfoundation:material:64>], [null]).remove();
 alloy.findRecipe(16, [<minecraft:redstone>*4,<gregtech:meta_item_1:10087>], [null]).remove();
 alloy.findRecipe(16, [<minecraft:redstone>*4,<gregtech:meta_item_1:2087>], [null]).remove();
+
+# 脉冲铁锭
+alloy.findRecipe(16, [<minecraft:iron_ingot>,<minecraft:ender_pearl>], [null]).remove();
+alloy.findRecipe(16, [<minecraft:iron_ingot>,<gregtech:meta_item_1:2218>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material>,<minecraft:ender_pearl>], [null]).remove();
+alloy.findRecipe(16, [<thermalfoundation:material>,<gregtech:meta_item_1:2218>], [null]).remove();
+alloy.recipeBuilder().inputs([<enderio:item_alloy_ingot:2>,<extrautils2:ingredients:17>]).outputs([<enderio:item_alloy_ingot:5>*2]).duration(40).EUt(512).buildAndRegister();
 
 # 魂金锭
 alloy.findRecipe(8, [<minecraft:gold_ingot>,<minecraft:soul_sand>], [null]).remove();
@@ -139,6 +167,9 @@ alloy.recipeBuilder().inputs([<extrautils2:compresseddirt:1>,<botania:fertilizer
 # 石英玻璃
 alloy.recipeBuilder().inputs([<appliedenergistics2:material:11>,<botania:managlass>]).outputs([<appliedenergistics2:quartz_glass>]).duration(40).EUt(128).buildAndRegister();
 
+# 照明面板
+alloy.recipeBuilder().inputs([<appliedenergistics2:material:12>,<extrautils2:screen>]).outputs([<appliedenergistics2:part:180>]).duration(200).EUt(128).buildAndRegister();
+
 # 彩虹桥方块
 alloy.recipeBuilder().inputs([<botania:elfglass>,<contenttweaker:living_matter_omnipotent>]).outputs([<botania:bifrostperm>]).duration(200).EUt(512).buildAndRegister();
 
@@ -158,4 +189,4 @@ alloy.recipeBuilder().inputs([<extraplanets:thermal_cloth:1>,<extraplanets:pluto
 alloy.recipeBuilder().inputs([<gregtech:machine:505>,<abyssalcraft:gatekeeperessence>]).outputs([<nuclearcraft:part:10>]).duration(200).EUt(8192).buildAndRegister();
 
 # 铌钛合金
-alloy.recipeBuilder().inputs([<gregtech:meta_item_1:10045>,<galacticraftplanets:item_basic_asteroids>]).outputs([<gregtech:meta_item_1:10135>]).duration(60).EUt(8192).buildAndRegister();
+alloy.recipeBuilder().inputs([<gregtech:meta_item_1:10045>,<galacticraftplanets:item_basic_asteroids>]).outputs([<gregtech:meta_item_1:10135>*2]).duration(60).EUt(8192).buildAndRegister();
